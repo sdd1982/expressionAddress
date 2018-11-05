@@ -1,0 +1,13 @@
+{
+  "definitions": {
+    "Tender": {
+      "properties": {
+        "expressionAddress": {
+          "title": "Dirección física expresiones",
+          "description": "Dirección física para enviar las expresiones de interés por parte de los interesados",
+          "$ref": "#/definitions/Address"
+        }
+      }
+    }
+  }
+}
