@@ -1,11 +1,17 @@
 {
-	"name":{"en":"expressionAddress"},
-	"description":{"es":"Dirección física para enviar las expresiones de interés por parte de los interesados en el proceso de contratación"},
-	"documentationUrl":{"es":"https://github.com/sdd1982/expressionAddress/blob/master/README.md"},
-	"schemas": [
-		"release-schema.json"
-	],
-	"compatibility": [
-		"1.1"
-	]
+  "name": {
+    "en": "expressionAddress"
+  },
+  "description": {
+    "es": "Dirección física para enviar las expresiones de interés por parte de los interesados en el proceso de contratación"
+  },
+  "documentationUrl": {
+    "es": "https://github.com/sdd1982/expressionAddress/blob/master/README.md"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
 }
